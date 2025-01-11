@@ -1,0 +1,66 @@
+Title: Creating a custom report and dashboard using the data got from Atera API
+
+Home Our Success Stories Creating a custom report and dashboard using the data got from Atera...
+Our Success StoriesIT
+Creating a custom report and dashboard using the data got from Atera API
+By Ajay Bidyarthy -
+January 16, 2022
+6562
+Client Background
+Client: A leading Marketing firm in USA
+Industry Type:  Marketing
+Services: Marketing, consulting, ads, business solutions
+Organization Size: 20+
+Project Description
+Atera.com is used as our RMM, we have an agent on every machine. Which tracks the if a machine goes down, initial response time etc.., The website doesn’t provide any standard reports, So we needed to create a custom report.
+Our Solution
+Importing the data from Atera API into Jupyter
+Using Web Scraping download the JSON data
+Convert the JSON data to Data Frame and download it into PC.
+Clean the data with only required columns
+Upload the data into google sheets.
+Connect google sheets and google data studio
+Create the dashboard with the data
+Tools used
+Python (Pandas, requests)
+Google Sheets
+Google Data Studio
+Skills used
+Analytics
+Programming Language
+Databases used
+Contacts.csv
+Customers.csv
+Tickets.csv
+Alerts.csv
+What are the technical Challenges Faced during Project Execution?
+I found it difficult on downloading the data.
+How the Technical Challenges were Solved
+Once I figured I have been using the wrong Authorization key to login I was able to solve the issue, and convert the curl command into python
+Project Snapshots
+Project website url
+https://datastudio.google.com/reporting/5e61aecb-a420-41cc-afba-d0ca37f69132
+Project Video
+Previous article
+Azure Data Lake and Power BI Dashboard
+Next article
+Big Data solution to an online multivendor marketplace eCommerce business
+RELATED INSIGHTSMORE FROM AUTHOR
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+Facial Recognition Attendance System
+Face Recognition Using DeepFace
+MOST POPULAR INSIGHTS
+Environmental impact of the COVID-19 pandemic – Lesson for the Future
+April 30, 2021
+Data Management for a Political SaaS Application
+July 27, 2023
+NFT Data Automation (looksrare), and ETL tool
+May 13, 2022
+ETL and MLOps Infrastructure for Blockchain Analytics
+September 16, 2022
+Load more
+RECOMMENDED INSIGHTS
+Internet Demand’s Evolution, Communication Impact, and 2035’s Alternative Pathways
+Immigration Datawarehouse & AI-based recommendations
+Marketing Drives Results With A Focus On Problems
+Marketing Mix Data Analysis

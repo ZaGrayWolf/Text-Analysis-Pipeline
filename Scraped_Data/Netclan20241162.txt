@@ -1,0 +1,55 @@
+Title: Budget, Sales KPI Dashboard using Power BI
+
+Home Our Success Stories Budget, Sales KPI Dashboard using Power BI
+Our Success StoriesBanking Securities, and InsuranceLifestyle & eCommerce
+Budget, Sales KPI Dashboard using Power BI
+By Ajay Bidyarthy -
+July 29, 2021
+7880
+Project Description
+Weekly Data – clustered bar chart for weekly Budget & Actual value , weekly Total Budget & Actual value (completed)
+YTD Data – clustered bar chart for monthly Budget & Actual value , monthly Total Budget & Actual value (completed)
+Sales History – stacked chart for yearly sales with each month sales , total yearly sale (completed)
+Dashlet – weekly data – Total weekly Budget , Total weekly Actual , % weekly Budget (completed)
+Dashlet – YTD data – Total YTD Budget , Total YTD Actual , % YTD Budget (completed)
+Dashlet – Sales History – Total Sales (completed)
+Filters – select Area , select City , select Years (completed)
+Data Visualization Deliverables
+Presentation
+Map
+Dashboard
+API Integration
+Data Visualization Tools
+Kibana
+Google Data Studio
+Microsoft Excel
+Microsoft Power BI
+Data Visualization Languages
+JavaScript
+SQL
+Python
+DAX
+Demo
+Previous article
+Benefits of Big Data in Different fields
+Next article
+ELK Stack – Elastic Queries
+RELATED INSIGHTSMORE FROM AUTHOR
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+Facial Recognition Attendance System
+Face Recognition Using DeepFace
+MOST POPULAR INSIGHTS
+Should celebrities be allowed to join politics?
+April 16, 2020
+Deploy MERN to google app engine, google cloud platform
+May 16, 2021
+Coronavirus: Effect on the Hospitality Industry
+April 30, 2020
+Design and develop retool app for wholecell.io and Asana data using...
+August 6, 2023
+Load more
+RECOMMENDED INSIGHTS
+Global financial crisis 2008 causes/effects and its solution
+How Data Analytics can help your business respond to the impact...
+AI and its impact on the Fashion Industry
+Evaluating Logistic Regression Models

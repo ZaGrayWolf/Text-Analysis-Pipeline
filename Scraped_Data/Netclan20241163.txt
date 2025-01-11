@@ -1,0 +1,53 @@
+Title: Amazon Buy Bot, an Automation AI tool to Auto-Checkouts
+
+Home Our Success Stories Amazon Buy Bot, an Automation AI tool to Auto-Checkouts
+Our Success StoriesLifestyle & eCommerce
+Amazon Buy Bot, an Automation AI tool to Auto-Checkouts
+By Ajay Bidyarthy -
+June 26, 2021
+6961
+Client Background
+Client: A leading consulting firm in the USA
+Industry Type: Consulting
+Services: Management consultant
+Organization Size: 100+
+Project Objective
+The main objective of this project is to build the automation tool to buy product on amazon.
+Project Description
+This project is basically completed using selenium and Python. All we have done is write a python script for automation using Selenium.
+Make some clicks use logics to check item is in stock or not. If the item is in stock then it buys the product otherwise repeat the process again.
+Our Solution
+A simple python code which uses selenium web driver to do all work.
+Project Deliverables
+Python Code
+Tools used
+Selenium Webdriver
+Language/techniques used
+Python
+Skills used
+Web Scraping
+Selenium
+Project Snapshots
+Previous article
+Predictive Modelling, AI, ML Dashboards in Power BI
+Next article
+How does Big Data Help in Finance and the Growth of Large Firms?
+RELATED INSIGHTSMORE FROM AUTHOR
+Integrating Machine Learning Code into Kubeflow Pipeline – Kuberflow MLOps Kubernetes
+Facial Recognition Attendance System
+Face Recognition Using DeepFace
+MOST POPULAR INSIGHTS
+PowerBI REST API – Fetching Dataflow and Refresh Schedules with semantic...
+August 25, 2024
+AI, ML, and IoT driven Entry Management and Monitoring
+June 19, 2020
+ETL and MLOps Infrastructure for Blockchain Analytics
+September 16, 2022
+Internet Demand’s Evolution, Communication Impact, and 2035’s Alternative Pathways
+August 18, 2023
+Load more
+RECOMMENDED INSIGHTS
+Digital Strategic Foresight Platform – Smart AI-Driven Dashboard
+Data science – Create Tailored algorithms
+Resume Matching & Skill Ranking for a Leading IT Firm in...
+Credit Scoring model
